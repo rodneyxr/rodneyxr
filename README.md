@@ -3,7 +3,7 @@
 - 👀 I’m interested in all things software engineering
 - 🌱 I’m currently learning Flutter & Dart
 - 💞️ I’m looking to collaborate on VR/XR projects
-- 🎮 How to reach me [Rodney#5915](https://discordapp.com/users/Rodney#5915)
+- 🎮 How to reach me [Rodney#5915](https://discordapp.com/users/130476501257814016)
 
 <!---
 rodneyxr/rodneyxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
